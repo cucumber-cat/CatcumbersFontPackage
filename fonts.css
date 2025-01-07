@@ -77,3 +77,10 @@ url('https://cdn.statically.io/gh/cucumber-cat/cherry/main/cherry-regular-webfon
 font-weight: normal;
 font-style: normal;
 }
+
+/**Beans font by catcumber, please give full credits to catcumber if used**/
+@font-face {
+font-family: beans;
+src: url('https://cdn.statically.io/gh/cucumber-cat/beans/main/beans-regular-webfont.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/cucumber-cat/beans/main/beans-regular-webfont.woff') format('woff');
+}
