@@ -32,6 +32,14 @@ url('https://cdn.statically.io/gh/cucumber-cat/MorningGlory/main/morningglory-re
 font-weight: normal;
 font-style: normal;
 }
+@font-face {
+font-family: Morning Glory;
+src: url('https://cdn.statically.io/gh/cucumber-cat/MorningGlory/main/morningglorybold-regular-webfont.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/cucumber-cat/MorningGlory/main/morningglorybold-regular-webfont.woff') format('woff');
+font-weight: bold;
+font-style: normal;
+}
+
 
 
 
