@@ -27,8 +27,8 @@ font-style: normal;
 /**morning glory font by catcumber, please give full credits to catcumber if used**/
 @font-face {
 font-family: Morning Glory;
-src: url('https://cdn.statically.io/gh/cucumber-cat/MorningGlory/main/morninggloryedited-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/MorningGlory/main/morninggloryedited-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/MorningGlory/main/morninggloryedited-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/MorningGlory/main/morninggloryedited-regular-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
