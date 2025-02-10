@@ -2,8 +2,8 @@
 
 @font-face {
 font-family: Soap Bubbles;
-src: url('https://cdn.statically.io/gh/cucumber-cat/Soap-Bubbles/main/soapbubbles-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/Soap-Bubbles/main/soapbubbles-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/Soap-Bubbles/main/soapbubbles-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/Soap-Bubbles/main/soapbubbles-regular-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -11,15 +11,15 @@ font-style: normal;
 /**hello sunshine font by catcumber, please give full credits to catcumber if used**/
 @font-face {
 font-family: Hello Sunshine;
-src: url('https://cdn.statically.io/gh/cucumber-cat/Hello-Sunshine/main/hellosunshine-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/Hello-Sunshine/main/hellosunshine-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/Hello-Sunshine/main/hellosunshine-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/Hello-Sunshine/main/hellosunshine-webfont.woff') format('woff');
 font-weight: bold;
 font-style: normal;
 }
 @font-face {
 font-family: Hello Sunshine;
-src: url('https://cdn.statically.io/gh/cucumber-cat/Hello-Sunshine-Light/main/hellosunshinelight-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/Hello-Sunshine-Light/main/hellosunshinelight-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/Hello-Sunshine-Light/main/hellosunshinelight-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/Hello-Sunshine-Light/main/hellosunshinelight-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -34,8 +34,8 @@ font-style: normal;
 }
 @font-face {
 font-family: Morning Glory;
-src: url('https://cdn.statically.io/gh/cucumber-cat/MorningGlory/main/morningglorybold-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/MorningGlory/main/morningglorybold-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/MorningGlory/main/morningglorybold-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/MorningGlory/main/morningglorybold-regular-webfont.woff') format('woff');
 font-weight: bold;
 font-style: normal;
 }
@@ -46,15 +46,15 @@ font-style: normal;
 /**Pink Mushroom font by catcumber, please give full credits to catcumber if used**/
 @font-face {
 font-family: Pink Mushroom;
-src: url('https://cdn.statically.io/gh/cucumber-cat/Pink-Mushroom/main/pinkmushroombold-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/Pink-Mushroom/main/pinkmushroombold-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/Pink-Mushroom/main/pinkmushroombold-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/Pink-Mushroom/main/pinkmushroombold-regular-webfont.woff') format('woff');
 font-weight: bold;
 font-style: normal;
 }
 @font-face {
 font-family: Pink Mushroom;
-src: url('https://cdn.statically.io/gh/cucumber-cat/Pink-Mushroom/main/pinkmushroom-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/Pink-Mushroom/main/pinkmushroom-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/Pink-Mushroom/main/pinkmushroom-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/Pink-Mushroom/main/pinkmushroom-regular-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -62,8 +62,8 @@ font-style: normal;
 /**Peanut Butter font by catcumber, please give full credits to catcumber if used**/
 @font-face {
 font-family: Peanut Butter;
-src: url('https://cdn.statically.io/gh/cucumber-cat/Peanut-Butter/main/peanutbutter-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/Peanut-Butter/main/peanutbutter-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/Peanut-Butter/main/peanutbutter-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/Peanut-Butter/main/peanutbutter-regular-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -71,8 +71,8 @@ font-style: normal;
 /**Bubbly Blaze font by catcumber, please give full credits to catcumber if used**/
 @font-face {
 font-family: Bubbly Blaze;
-src: url('https://cdn.statically.io/gh/cucumber-cat/bubbly-blaze/main/bubblyblaze-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/bubbly-blaze/main/bubblyblaze-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/bubbly-blaze/main/bubblyblaze-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/bubbly-blaze/main/bubblyblaze-regular-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -80,8 +80,8 @@ font-style: normal;
 /**Cherry font by catcumber, please give full credits to catcumber if used**/
 @font-face {
 font-family: Cherry;
-src: url('https://cdn.statically.io/gh/cucumber-cat/cherry/main/cherry-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/cherry/main/cherry-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/cherry/main/cherry-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/cherry/main/cherry-regular-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -89,6 +89,6 @@ font-style: normal;
 /**Beans font by catcumber, please give full credits to catcumber if used**/
 @font-face {
 font-family: beans;
-src: url('https://cdn.statically.io/gh/cucumber-cat/beans/main/beans-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/cucumber-cat/beans/main/beans-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/cucumber-cat/beans/main/beans-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/cucumber-cat/beans/main/beans-regular-webfont.woff') format('woff');
 }
